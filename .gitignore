@@ -1,3 +1,8 @@
+obj/
+bin/
+v14/
+packages/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
